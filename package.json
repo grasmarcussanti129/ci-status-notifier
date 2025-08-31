@@ -1,7 +1,7 @@
 {
   "name": "ci-status-notifier",
   "version": "1.0.0",
-  "description": "A notifier for CI status updates.",
+  "description": "A notifier for continuous integration (CI) status updates to keep teams informed.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
