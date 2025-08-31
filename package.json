@@ -1,6 +1,7 @@
 {
   "name": "ci-status-notifier",
   "version": "1.0.0",
+  "description": "A notifier for CI status updates.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
