@@ -15,5 +15,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/ci-status-notifier.git"
-  }
+  },
+  "keywords": [
+    "ci",
+    "notifier",
+    "status",
+    "slack"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT"
 }
